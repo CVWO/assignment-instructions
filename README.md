@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the [CVWO Winter Assignment](./CVWO_Assignment_2024.pdf)! This project is designed to provide a comprehensive introduction to web development, focusing on using React for frontend development and Ruby on Rails or Go for the backend. The core of this assignment involves creating a simple web forum that supports basic CRUD operations for threads and comments. Additionally, a tagging or categorization feature should be implemented to enhance organization. This assignment is a significant part of the selection process for joining CVWO next summer.
+Welcome to the CVWO Winter Assignment! Please find the detailed instructions [here](./CVWO_Assignment_2024.pdf). This project is designed to provide a comprehensive introduction to web development, focusing on using React for frontend development and Ruby on Rails or Go for the backend. The core of this assignment involves creating a simple web forum that supports basic CRUD operations for threads and comments. Additionally, a tagging or categorization feature should be implemented to enhance organization. This assignment is a significant part of the selection process for joining CVWO next summer.
 
 ## Submission Deadlines
 
